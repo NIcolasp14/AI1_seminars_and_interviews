@@ -1,1 +1,1 @@
-# AI1_undisclosed_seminar_solution
+# AI1_seminars_and_interviews
