@@ -1,1 +1,1 @@
-# AI1_seminars_and_interviews
+# AI1-seminars_and_interviews
